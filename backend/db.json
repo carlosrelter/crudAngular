@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "uma frase aletoria teste",
+      "autoria": "jeff",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "veio do back",
+      "autoria": "jeff",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 1,
+      "conteudo": "vindo do banco fake",
+      "autoria": "jeff",
+      "modelo": "modelo2"
+    }
+  ]
+}
