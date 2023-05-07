@@ -2,14 +2,14 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "vindo do banco fake",
-      "autoria": "jeff",
-      "modelo": "modelo2"
+      "conteudo": "edição",
+      "autoria": "edit",
+      "modelo": "modelo3"
     },
     {
-      "conteudo": "como colocar novo pensamento",
-      "autoria": "teste",
-      "modelo": "modelo2",
+      "conteudo": "zero",
+      "autoria": "ser",
+      "modelo": "modelo3",
       "id": 3
     },
     {
