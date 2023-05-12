@@ -12,6 +12,8 @@ export class ListarPensamentoComponent implements OnInit {
 
   listaPensamentos: Pensamento [] = [];
   paginaAtual: number = 1;
+  haMaisPensamentos: boolean = true;
+
   constructor(private service: PensamentoService ) { }
 
   ngOnInit(): void {
@@ -20,5 +22,8 @@ export class ListarPensamentoComponent implements OnInit {
     })//a inscrição emite notificações toda vez que houver mudança
   }//é ciclo de vida do componente tudo que sera carregado quando componente for carregado
 
+  carregarMaisPensamentos(){
+
+  }
 
 }
