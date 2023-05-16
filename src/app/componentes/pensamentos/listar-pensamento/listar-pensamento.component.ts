@@ -23,7 +23,13 @@ export class ListarPensamentoComponent implements OnInit {
   }//é ciclo de vida do componente tudo que sera carregado quando componente for carregado
 
   carregarMaisPensamentos(){
-
+    this.service.listar(this.paginaAtual)
+    .subscribe(listaPensamentos => {
+      this.listaPensamentos.push(...listaPensamentos);
+      if(this.listaPensamentos.length){
+        this.haMaisPensamentos = false;
+      }
+    })
   }
 
 }
