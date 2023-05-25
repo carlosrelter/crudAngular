@@ -4,36 +4,42 @@
       "id": 1,
       "conteudo": "edição",
       "autoria": "edit",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito":false
     },
     {
       "conteudo": "zero",
       "autoria": "ser",
       "modelo": "modelo3",
+      "favorito":false,
       "id": 3
     },
     {
       "conteudo": "teste das 21:46 para adição de pensamento",
       "autoria": "Carlos",
       "modelo": "modelo3",
+      "favorito":false,
       "id": 5
     },
     {
       "conteudo": "teste das 21:48 de adição de pensamento",
       "autoria": "bob",
       "modelo": "modelo2",
+      "favorito":false,
       "id": 6
     },
     {
       "conteudo": "13123213",
       "autoria": "       ",
       "modelo": "modelo1",
+      "favorito":false,
       "id": 7
     },
     {
       "conteudo": "gjgjghjgh",
       "autoria": "rti",
       "modelo": "modelo1",
+      "favorito":false,
       "id": 8
     }
   ]
